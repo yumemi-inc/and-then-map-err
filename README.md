@@ -1,4 +1,4 @@
-# and-then-map-err
+# and_then_map_err
 
 Provides traits for chaining `Result` operations with different error types **WITHOUT** the need for intermediate `map_err` calls.
 
